@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppHarbor", "MySite\AppHarbor.csproj", "{ABD18AC1-460B-4FAC-8836-E9122D917062}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StefanNestorov", "MySite\StefanNestorov.csproj", "{ABD18AC1-460B-4FAC-8836-E9122D917062}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
